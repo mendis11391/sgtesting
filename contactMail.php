@@ -5,7 +5,7 @@ $email = strip_tags($_POST['email']);
 $contact = strip_tags($_POST['phone']);
 $comment = strip_tags($_POST['message']);
 
-$bccEmailAddress1 = "mendis11391@gmail.com";
+$bccEmailAddress1 = "prashanth11391@gmail.com";
 
 if($name !== "" && $email !=="" && $comment !==""){
 

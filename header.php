@@ -82,8 +82,16 @@
                             <a href="downloads.php"><i class="fa fa-download" aria-hidden="true"></i> Notes</a>
                           </li>
 						  <li>
-                              <a href='intQuestions.php?uname=<?php print_r( $_SESSION["email"]) ?>'><i class="fa fa-archive" aria-hidden="true"></i> Interview Questions</a>
-		                  </li>
+              <?php
+if (isset($_SESSION["email"])) { 
+    ?>
+    <a href='intQuestions.php?uname=<?php echo $_SESSION["email"]; ?>'><i class="fa fa-archive" aria-hidden="true"></i> Interview Questions</a>
+    <?php
+} else {
+    
+}
+?>
+                            </li>
                       </ul>
                   </li>
                   <li>

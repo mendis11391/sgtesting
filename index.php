@@ -21,12 +21,7 @@ include 'header.php';
   </a>
   </div>
     </div>
-  <div class="container-fluid" style="margin-top:1%">
-  <marquee bgcolor="#dff0d8" behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();" data-bind="foreach: updatebatchsingle">
-  <!-- Morning Batch: July 30th: Automation - 07:00 AM to 08:30 AM.  SQL/Manual - 10:00 AM to 12:00 PM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evening Regular Batch : August 27th: SQL/Manual - 05:00 PM to 06:00 PM.  Automation - 06:00 PM to 07:30 PM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weekend Batch: June 23rd - Timings: 9:00 AM to 1:00 PM. -->
-  <div  data-bind="html: batchdetails"></div>
-  </marquee>
-  </div>
+
     <div class="container">
       <div class="row mar-b-50">
         <div class="col-md-12">

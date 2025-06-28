@@ -307,7 +307,7 @@
           $displayCountVal = $row1['displayCount'];
 
           $bannerArray = array();
-          $res1 = $mysqli->query("SELECT `imgNum` FROM banners ORDER BY id DESC LIMIT ".$displayCountVal);
+          $res1 = $mysqli->query("SELECT `imgNum` FROM banners ORDER BY id ASC LIMIT ".$displayCountVal);
             while($row = $res1->fetch_assoc())
             {
               $bannerArray[] = $row;
