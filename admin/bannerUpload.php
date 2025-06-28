@@ -9,17 +9,32 @@ if(!isset($_SESSION["adusername"])){
 
 <?php
 
-		$result = $mysqli->query("SELECT `displayCount` FROM banners ORDER BY id DESC LIMIT 1");
-		$row = $result->fetch_assoc();
-		$displayCountVal = $row['displayCount'];
+// Check if the banners table has any records and get displayCount
+$result = $mysqli->query("SELECT `displayCount` FROM banners ORDER BY id DESC LIMIT 1");
 
-		$bannerArray = array();
-		$res1 = $mysqli->query("SELECT * FROM banners ORDER BY id DESC LIMIT ".$displayCountVal);
-	    while($row = $res1->fetch_assoc())
-	    {
-		 $bannerArray[] = $row;
-	    }
-       
+// Initialize default values
+$displayCountVal = 0;
+$bannerArray = array();
+
+if ($result && $result->num_rows > 0) {
+    $row = $result->fetch_assoc();
+    $displayCountVal = (int)$row['displayCount'];
+    
+    if ($displayCountVal > 0) {
+        $res1 = $mysqli->query("SELECT * FROM banners ORDER BY id LIMIT " . $displayCountVal);
+        
+        if ($res1) {
+            while($row = $res1->fetch_assoc()) {
+                $bannerArray[] = $row;
+            }
+        } else {
+            echo "Error executing second query: " . $mysqli->error;
+        }
+    }
+} else {
+    echo "No banners found in the database.";
+}
+
 ?>
 
 <!-- Content Wrapper. Contains page content -->

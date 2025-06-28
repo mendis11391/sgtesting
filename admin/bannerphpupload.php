@@ -19,7 +19,7 @@ if (isset($_GET['action'])) {
                     $file1 = $NewImageName;
                     if((int)$file1) {
                         $count1 = (int)"7";
-                        $sql1      = "INSERT INTO `banners`(`displayCount`,`imgNum`, `updatedBy`) VALUES ('7','$file1','$uname')";
+                        $sql1      = "INSERT INTO `banners`(`displayCount`,`imgNum`, `updatedBy`) VALUES ('11','$file1','$uname')";
                         $result   = $mysqli->query($sql1);
                         echo "success";
                     } else {

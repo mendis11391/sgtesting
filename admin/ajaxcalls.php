@@ -29,17 +29,15 @@ if ($_POST['action'] == 'login') {
         $state = false;
     }
     if($state){
-        $stmt = $mysqli->prepare('select username from admin where username=? and password=?');
+        $stmt = $mysqli->prepare('select * from admin where username=? and password=?');
         $stmt->bind_param('ss', $username,$upass);
 
         $stmt->execute();
 
-        $stmt->store_result();
-        $stmt->bind_result($usernamenew);
-        $resultArray = array();
-        while ($row = $stmt->fetch()) {
-            if ($stmt->num_rows > 0) {
-                $_SESSION["adusername"] = $usernamenew;
+        $result = $stmt->get_result();
+        while ($row = $result->fetch_assoc()) {
+            if ($result->num_rows > 0) {
+                $_SESSION["adusername"] = $row['username'];
                 echo "success";
             } else {
                 echo "failure";
