@@ -1,0 +1,40 @@
+.answer {
+    padding: 35px; 
+    margin-top:10px;
+    background-color: white;
+    overflow: hidden;
+}
+
+.ques{
+    font-size: 1.5em;
+    color: #000;
+}
+
+.ques:hover, .ques:focus{
+    color: #000;
+}
+
+pre{
+    padding: 2px 30px !important;
+}
+
+
+.btn-default{
+    background-color: #f4f4f4;
+    color: #444;
+    border-color: #222;
+    opacity: 1;
+    border-width: 1px;
+}
+
+.loginForm{
+    width: 100%;
+}
+
+@media (min-width:640px){
+
+.loginForm{
+    width: 400px;
+}
+
+}

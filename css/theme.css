@@ -1,0 +1,72 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  display: block;
+  position: static;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.container-fluid marquee{
+      font-size: 25px;
+    color: #000;
+}
+
+.ques{
+  font-size: 1.2em;
+  color: #000;
+}
+
+.ques:hover, .ques:focus{
+  color: #000;
+}
+
+.answer{
+  border: 1px solid #e2e2e2;
+  padding: 30px 32px 0px;
+  display: table;
+  margin-top: 20px;
+}
+
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus{
+  background-color:  #00bfff !important;
+  border-color:  #428bca !important;
+}
+
+.individualQues{
+  padding: 50px 0 10px;
+}
+
+.individualQues h3{
+  font-size: 24px !important;
+}
+
+.commentsSection{
+  padding: 0;
+}
+
+.p-t-20{
+  padding-top: 20px;
+}
+
+.dispNone{
+  display: none;
+}
+
+.comment{
+  padding: 20px 25px 0 25px;
+  border: 1px solid #e2e2e2;
+  margin-bottom: 25px;
+}
+
+.commentInfo{
+  display: table;
+  border-bottom: 1px solid #e2e2e2;
+  margin-bottom: 25px;
+}
