@@ -669,9 +669,7 @@
                           <tr>
                             <th>Exception Handling</th>
                           <tr>
-
                         </table>
-                      
                       </li>
                       <li class="list-group-item">Working with Properties in SoapUI</li>
                       <li class="list-group-item">Handling Properties with Groovy Script</li>
@@ -914,3 +912,636 @@
         </div>
     </div>
     <!--End of Appium Syllabus-->
+
+    <!-- Playwright TypeScript Syllabus-->
+    <div aria-hidden="true" aria-labelledby="myModal" role="dialog" tabindex="-1" id="playwrightTSsyllabus" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title">Playwright with TypeScript</h4>
+                </div>
+                <div class="modal-body">
+                    <h2>TypeScript Syllabus</h2>
+                    <h3>Basic in TypeScript</h3>
+                    <ul class="list-group">
+                      <li class="list-group-item">Introduction To TypeScript</li>
+                      <li class="list-group-item">Download and install NodeJS</li>
+                      <li class="list-group-item">Download and install Visual Studio Code</li>
+                      <li class="list-group-item">Variables in TypeScript</li>
+                      <li class="list-group-item">Declare Variables using Var, Let & Const</li>
+                      <li class="list-group-item">Data Types in TypeScript</li>
+                      <li class="list-group-item">Operators in TypeScript
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>Arithmetic Operators</th>
+                          </tr>
+                          <tr>
+                            <th>Relational Operators & types</th>
+                          </tr>
+                          <tr>
+                            <th>Logical Operators & types</th>
+                          </tr>
+                          <tr>
+                            <th>Assignment Operators & types</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Conditional Statements in TypeScript
+                        <table class="table"  style="margin-bottom: 0px;">
+                          <tr>
+                            <th>If Statement</th>
+                          </tr>
+                          <tr>
+                            <th>If else Statement</th>
+                          </tr>
+                          <tr>
+                            <th>Nested If else statement</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Ternary Operator in TypeScript</li>
+                      <li class="list-group-item">Switch statement in TypeScript</li>
+                      <li class="list-group-item">Looping statements in TypeScript
+                        <table class="table"  style="margin-bottom: 0px;">
+                          <tr>
+                            <th>For Loop</th>
+                          </tr>
+                          <tr>
+                            <th>While Loop</th>
+                          </tr>
+                          <tr>
+                            <th>Do..While Loop</th>
+                          </tr>
+                          <tr>
+                            <th>Loop Control Statements - Break and Continue</th>
+                          </tr>
+                          <tr>
+                            <th>Patterns in TypeScript</th>
+                          </tr>
+                        </table>
+                      </li>
+                    </ul>
+
+                    <h3>Advanced TypeScript</h3>
+                    <ul class="list-group">
+                      <li class="list-group-item">String methods in TypeScript</li>
+                      <li class="list-group-item">Arrays in TypeScript
+                        <table class="table"  style="margin-bottom: 0px;">
+                          <tr>
+                            <th>Single Dimensional Array</th>
+                          </tr>
+                          <tr>
+                            <th>Two Dimensional Array</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Tuple in TypeScript</li>
+                      <li class="list-group-item">Functions in TypeScript:
+                        <table class="table"  style="margin-bottom: 0px;">
+                          <tr>
+                            <th>Functions without return value</th>
+                          </tr>
+                          <tr>
+                            <th>Functions with return value</th>
+                          </tr>
+                          <tr>
+                            <th>Anonymous Functions</th>
+                          </tr>
+                          <tr>
+                            <th>Arrow Functions</th>
+                          </tr>
+                          <tr>
+                            <th>Recursion</th>
+                          </tr>
+                          <tr>
+                            <th>Function Overloading</th>
+                          </tr>
+                          <tr>
+                            <th>Optional and Default Parameters</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Object-Oriented Programming</li>
+                      <li class="list-group-item">Classes, Constructors and Methods</li>
+                      <li class="list-group-item">Getters and Setters</li>
+                      <li class="list-group-item">Access Specifiers</li>
+                      <li class="list-group-item">Static Methods and Properties</li>
+                      <li class="list-group-item">Inheritance (Simple, Multilevel, Hierarchical, Hybrid)</li>
+                      <li class="list-group-item">Method Overriding</li>
+                      <li class="list-group-item">Interface in TypeScript</li>
+                      <li class="list-group-item">Modules in TypeScript</li>
+                      <li class="list-group-item">Generics in TypeScript</li>
+                      <li class="list-group-item">Async Programming in TypeScript</li>
+                      <li class="list-group-item">Decorators in TypeScript</li>
+                    </ul>
+
+                    <h2>Playwright Syllabus</h2>
+                    <ul class="list-group">
+                      <li class="list-group-item">Module 1:
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>Setup and Installation (NodeJS, VS Code, Playwright)</th>
+                          </tr>
+                          <tr>
+                            <th>Writing Tests (Traditional, Anonymous, Arrow Functions)</th>
+                          </tr>
+                          <tr>
+                            <th>Basic Assertions</th>
+                          </tr>
+                          <tr>
+                            <th>Test Hooks (beforeEach, afterEach, beforeAll, afterAll)</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Module 2:
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>WebElement Interactions</th>
+                          </tr>
+                          <tr>
+                            <th>Login/Logout Testing</th>
+                          </tr>
+                          <tr>
+                            <th>Built-In Locators</th>
+                          </tr>
+                          <tr>
+                            <th>XPath and CSS Locators</th>
+                          </tr>
+                          <tr>
+                            <th>End-to-End Scenarios</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Module 3:
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>Record & Playback with Codegen</th>
+                          </tr>
+                          <tr>
+                            <th>API Response Assertions</th>
+                          </tr>
+                          <tr>
+                            <th>Generic Assertions</th>
+                          </tr>
+                          <tr>
+                            <th>Locator Assertions</th>
+                          </tr>
+                          <tr>
+                            <th>Page Assertions</th>
+                          </tr>
+                          <tr>
+                            <th>Snapshot Assertions</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Module 4:
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>GitHub SSH Configuration</th>
+                          </tr>
+                          <tr>
+                            <th>Page Object Model Implementation</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Module 5:
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>UI Element Handling (Text Fields, Checkboxes, Radio Buttons)</th>
+                          </tr>
+                          <tr>
+                            <th>Text Verification</th>
+                          </tr>
+                          <tr>
+                            <th>Browser Window Management</th>
+                          </tr>
+                          <tr>
+                            <th>Screenshots, Videos, and Trace Viewer</th>
+                          </tr>
+                          <tr>
+                            <th>Test Retries</th>
+                          </tr>
+                          <tr>
+                            <th>Mouse Actions (Hover, Right Click, Double Click)</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Module 6:
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>Alert Handling</th>
+                          </tr>
+                          <tr>
+                            <th>Dropdown Handling</th>
+                          </tr>
+                          <tr>
+                            <th>File Upload</th>
+                          </tr>
+                          <tr>
+                            <th>Keyboard Actions</th>
+                          </tr>
+                          <tr>
+                            <th>Autocomplete/Autosuggestion</th>
+                          </tr>
+                          <tr>
+                            <th>Frame Handling</th>
+                          </tr>
+                          <tr>
+                            <th>WebTable and Pagination</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Module 7:
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>Browser Context Management</th>
+                          </tr>
+                          <tr>
+                            <th>Multiple Window Handling</th>
+                          </tr>
+                          <tr>
+                            <th>Network Call Handling</th>
+                          </tr>
+                          <tr>
+                            <th>Date Picker Handling</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Module 8:
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>Test Grouping with Describe Blocks</th>
+                          </tr>
+                          <tr>
+                            <th>Test Annotations and Tags</th>
+                          </tr>
+                          <tr>
+                            <th>Data-Driven Testing with JSON</th>
+                          </tr>
+                          <tr>
+                            <th>Reporting (List, Dot, JSON, JUnit, HTML, Allure)</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Module 9: BDD Cucumber Framework</li>
+                      <li class="list-group-item">Module 10: Postman REST API Testing</li>
+                      <li class="list-group-item">Module 11: Playwright REST API Automation</li>
+                      <li class="list-group-item">Module 12: CI/CD and Advanced Topics</li>
+                    </ul>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End of Playwright TypeScript Syllabus-->
+
+    <!-- Playwright JavaScript Syllabus-->
+    <div aria-hidden="true" aria-labelledby="myModal" role="dialog" tabindex="-1" id="playwrightJSsyllabus" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title">Playwright with JavaScript</h4>
+                </div>
+                <div class="modal-body">
+                    <h2>JavaScript Syllabus</h2>
+                    <h3>Basic in JavaScript</h3>
+                    <ul class="list-group">
+                      <li class="list-group-item">Introduction To JavaScript</li>
+                      <li class="list-group-item">Download and install NodeJS</li>
+                      <li class="list-group-item">Download and install Visual Studio Code</li>
+                      <li class="list-group-item">How to Include JavaScript in HTML Web Page</li>
+                      <li class="list-group-item">Output Statements in JavaScript
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>document.write</th>
+                          </tr>
+                          <tr>
+                            <th>alert</th>
+                          </tr>
+                          <tr>
+                            <th>console.log</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Input Statement in JavaScript [prompt]</li>
+                      <li class="list-group-item">confirm dialog box in JavaScript</li>
+                      <li class="list-group-item">Variables in JavaScript</li>
+                      <li class="list-group-item">Declare Variables using Var, Let & Const</li>
+                      <li class="list-group-item">Datatypes in JavaScript</li>
+                      <li class="list-group-item">Operator & types of operator in JavaScript
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>Arithmetic Operators</th>
+                          </tr>
+                          <tr>
+                            <th>Relational Operators & types</th>
+                          </tr>
+                          <tr>
+                            <th>Logical Operators & types</th>
+                          </tr>
+                          <tr>
+                            <th>Assignment Operators & types</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Conditional Statements in JavaScript
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>If Statement</th>
+                          </tr>
+                          <tr>
+                            <th>If else Statement</th>
+                          </tr>
+                          <tr>
+                            <th>Nested If else statement</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Ternary Operator in JavaScript</li>
+                      <li class="list-group-item">Switch statement in JavaScript</li>
+                      <li class="list-group-item">Loop Control Statements
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>For Loop</th>
+                          </tr>
+                          <tr>
+                            <th>While Loop</th>
+                          </tr>
+                          <tr>
+                            <th>Do..While Loop</th>
+                          </tr>
+                          <tr>
+                            <th>Break and Continue</th>
+                          </tr>
+                          <tr>
+                            <th>Patterns in JavaScript</th>
+                          </tr>
+                        </table>
+                      </li>
+                    </ul>
+
+                    <h3>Advanced JavaScript</h3>
+                    <ul class="list-group">
+                      <li class="list-group-item">String & String Methods in JavaScript</li>
+                      <li class="list-group-item">Numbers & Numbers Methods in JavaScript</li>
+                      <li class="list-group-item">Template Literals in JavaScript</li>
+                      <li class="list-group-item">Date Constructor in JavaScript</li>
+                      <li class="list-group-item">Arrays & Array Methods
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>For of Loop with array</th>
+                          </tr>
+                          <tr>
+                            <th>For in Loop with array</th>
+                          </tr>
+                          <tr>
+                            <th>Array destructuring & Rest operator</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Functions in JavaScript
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>Functions without return value</th>
+                          </tr>
+                          <tr>
+                            <th>Functions with return value</th>
+                          </tr>
+                          <tr>
+                            <th>Anonymous Functions</th>
+                          </tr>
+                          <tr>
+                            <th>Arrow Functions</th>
+                          </tr>
+                          <tr>
+                            <th>Recursion</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Objects in JavaScript
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>Objects/ Array of Objects</th>
+                          </tr>
+                          <tr>
+                            <th>Nested Objects</th>
+                          </tr>
+                          <tr>
+                            <th>Objects with Function</th>
+                          </tr>
+                          <tr>
+                            <th>Read Key and Value pair</th>
+                          </tr>
+                          <tr>
+                            <th>Object destructuring</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Higher Order Functions</li>
+                      <li class="list-group-item">Arrays Functions - Map, Filter and Reduce</li>
+                      <li class="list-group-item">Set in JavaScript</li>
+                      <li class="list-group-item">Map in JavaScript</li>
+                      <li class="list-group-item">Object-Oriented Programming</li>
+                      <li class="list-group-item">Classes in JavaScript</li>
+                      <li class="list-group-item">Constructor and Functions in Class</li>
+                      <li class="list-group-item">Getters and Setters</li>
+                      <li class="list-group-item">Export and Import Classes</li>
+                      <li class="list-group-item">Encapsulation in JavaScript</li>
+                      <li class="list-group-item">Inheritance in JavaScript</li>
+                      <li class="list-group-item">Prototype JavaScript</li>
+                      <li class="list-group-item">Promises and fetch</li>
+                      <li class="list-group-item">Async Await</li>
+                    </ul>
+
+                    <h2>Playwright Syllabus</h2>
+                    <ul class="list-group">
+                      <li class="list-group-item">Module 1:
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>Setup and Installation (NodeJS, VS Code, Playwright)</th>
+                          </tr>
+                          <tr>
+                            <th>Writing Tests (Traditional, Anonymous, Arrow Functions)</th>
+                          </tr>
+                          <tr>
+                            <th>Basic Assertions</th>
+                          </tr>
+                          <tr>
+                            <th>Test Hooks (beforeEach, afterEach, beforeAll, afterAll)</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Module 2:
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>WebElement Interactions</th>
+                          </tr>
+                          <tr>
+                            <th>Login/Logout Testing</th>
+                          </tr>
+                          <tr>
+                            <th>Built-In Locators</th>
+                          </tr>
+                          <tr>
+                            <th>XPath and CSS Locators</th>
+                          </tr>
+                          <tr>
+                            <th>End-to-End Scenarios</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Module 3:
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>Record & Playback with Codegen</th>
+                          </tr>
+                          <tr>
+                            <th>API Response Assertions</th>
+                          </tr>
+                          <tr>
+                            <th>Generic Assertions</th>
+                          </tr>
+                          <tr>
+                            <th>Locator Assertions</th>
+                          </tr>
+                          <tr>
+                            <th>Page Assertions</th>
+                          </tr>
+                          <tr>
+                            <th>Snapshot Assertions</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Module 4:
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>GitHub SSH Configuration</th>
+                          </tr>
+                          <tr>
+                            <th>Page Object Model Implementation</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Module 5:
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>UI Element Handling</th>
+                          </tr>
+                          <tr>
+                            <th>Text Verification</th>
+                          </tr>
+                          <tr>
+                            <th>Browser Window Management</th>
+                          </tr>
+                          <tr>
+                            <th>Screenshots, Videos, and Trace Viewer</th>
+                          </tr>
+                          <tr>
+                            <th>Test Retries</th>
+                          </tr>
+                          <tr>
+                            <th>Mouse Actions</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Module 6:
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>Alert Handling</th>
+                          </tr>
+                          <tr>
+                            <th>Dropdown Handling</th>
+                          </tr>
+                          <tr>
+                            <th>File Upload</th>
+                          </tr>
+                          <tr>
+                            <th>Keyboard Actions</th>
+                          </tr>
+                          <tr>
+                            <th>Autocomplete/Autosuggestion</th>
+                          </tr>
+                          <tr>
+                            <th>Frame Handling</th>
+                          </tr>
+                          <tr>
+                            <th>WebTable and Pagination</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Module 7:
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>Browser Context Management</th>
+                          </tr>
+                          <tr>
+                            <th>Multiple Window Handling</th>
+                          </tr>
+                          <tr>
+                            <th>Network Call Handling</th>
+                          </tr>
+                          <tr>
+                            <th>Date Picker Handling</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Module 8:
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>Test Grouping with Describe Blocks</th>
+                          </tr>
+                          <tr>
+                            <th>Test Annotations and Tags</th>
+                          </tr>
+                          <tr>
+                            <th>Data-Driven Testing with JSON</th>
+                          </tr>
+                          <tr>
+                            <th>Reporting (List, Dot, JSON, JUnit, HTML, Allure)</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Module 9: BDD Cucumber Framework
+                        <table class="table" style="margin-bottom: 0px;">
+                          <tr>
+                            <th>Install Cucumber</th>
+                          </tr>
+                          <tr>
+                            <th>Explore Gherkin Language</th>
+                          </tr>
+                          <tr>
+                            <th>Create Feature Files</th>
+                          </tr>
+                          <tr>
+                            <th>Create Step Definition Files</th>
+                          </tr>
+                          <tr>
+                            <th>Integrate Hooks</th>
+                          </tr>
+                          <tr>
+                            <th>Filtering scenarios</th>
+                          </tr>
+                          <tr>
+                            <th>Retrying failed scenarios</th>
+                          </tr>
+                          <tr>
+                            <th>Parallel running</th>
+                          </tr>
+                        </table>
+                      </li>
+                      <li class="list-group-item">Module 10: Postman REST API Testing</li>
+                      <li class="list-group-item">Module 11: Playwright REST API Automation</li>
+                      <li class="list-group-item">Module 12: CI/CD and Advanced Topics</li>
+                    </ul>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End of Playwright JavaScript Syllabus-->

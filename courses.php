@@ -68,13 +68,24 @@
 	  <br/><br/><br/><br/>
       <div class="text-center our-services">
         <div class="row">
-          <div class="col-sm-12 wow fadeInDown">
+          <div class="col-sm-4 wow fadeInDown">
             <a class="btn btn-lg" data-toggle="modal" data-target="#mobAutsyllabus"><img src="img/courses/Appium.png" width="150px"></a>
             <div class="service-info">
               <h3>Mobile Automation</h3>
             </div>
           </div>
-          
+          <div class="col-sm-4 wow fadeInDown">
+            <a class="btn btn-lg" data-toggle="modal" data-target="#playwrightTSsyllabus"><img src="img/courses/playwrightTs.png" width="150px"></a>
+            <div class="service-info">
+              <h3>Playwright TypeScript</h3>
+            </div>
+          </div>
+          <div class="col-sm-4 wow fadeInDown">
+            <a class="btn btn-lg" data-toggle="modal" data-target="#playwrightJSsyllabus"><img src="img/courses/playwrightJs.png" width="150px"></a>
+            <div class="service-info">
+              <h3>Playwright JavaScript</h3>
+            </div>
+          </div>
         </div>
       </div>
     </div>
