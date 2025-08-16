@@ -934,29 +934,29 @@
                       <li class="list-group-item">Operators in TypeScript
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>Arithmetic Operators</th>
+                            <td>Arithmetic Operators</td>
                           </tr>
                           <tr>
-                            <th>Relational Operators & types</th>
+                            <td>Relational Operators & types</td>
                           </tr>
                           <tr>
-                            <th>Logical Operators & types</th>
+                            <td>Logical Operators & types</td>
                           </tr>
                           <tr>
-                            <th>Assignment Operators & types</th>
+                            <td>Assignment Operators & types</td>
                           </tr>
                         </table>
                       </li>
                       <li class="list-group-item">Conditional Statements in TypeScript
                         <table class="table"  style="margin-bottom: 0px;">
                           <tr>
-                            <th>If Statement</th>
+                            <td>If Statement</td>
                           </tr>
                           <tr>
-                            <th>If else Statement</th>
+                            <td>If else Statement</td>
                           </tr>
                           <tr>
-                            <th>Nested If else statement</th>
+                            <td>Nested If else statement</td>
                           </tr>
                         </table>
                       </li>
@@ -965,19 +965,19 @@
                       <li class="list-group-item">Looping statements in TypeScript
                         <table class="table"  style="margin-bottom: 0px;">
                           <tr>
-                            <th>For Loop</th>
+                            <td>For Loop</td>
                           </tr>
                           <tr>
-                            <th>While Loop</th>
+                            <td>While Loop</td>
                           </tr>
                           <tr>
-                            <th>Do..While Loop</th>
+                            <td>Do..While Loop</td>
                           </tr>
                           <tr>
-                            <th>Loop Control Statements - Break and Continue</th>
+                            <td>Loop Control Statements - Break and Continue</td>
                           </tr>
                           <tr>
-                            <th>Patterns in TypeScript</th>
+                            <td>Patterns in TypeScript</td>
                           </tr>
                         </table>
                       </li>
@@ -989,10 +989,10 @@
                       <li class="list-group-item">Arrays in TypeScript
                         <table class="table"  style="margin-bottom: 0px;">
                           <tr>
-                            <th>Single Dimensional Array</th>
+                            <td>Single Dimensional Array</td>
                           </tr>
                           <tr>
-                            <th>Two Dimensional Array</th>
+                            <td>Two Dimensional Array</td>
                           </tr>
                         </table>
                       </li>
@@ -1000,25 +1000,25 @@
                       <li class="list-group-item">Functions in TypeScript:
                         <table class="table"  style="margin-bottom: 0px;">
                           <tr>
-                            <th>Functions without return value</th>
+                            <td>Functions without return value</td>
                           </tr>
                           <tr>
-                            <th>Functions with return value</th>
+                            <td>Functions with return value</td>
                           </tr>
                           <tr>
-                            <th>Anonymous Functions</th>
+                            <td>Anonymous Functions</td>
                           </tr>
                           <tr>
-                            <th>Arrow Functions</th>
+                            <td>Arrow Functions</td>
                           </tr>
                           <tr>
-                            <th>Recursion</th>
+                            <td>Recursion</td>
                           </tr>
                           <tr>
-                            <th>Function Overloading</th>
+                            <td>Function Overloading</td>
                           </tr>
                           <tr>
-                            <th>Optional and Default Parameters</th>
+                            <td>Optional and Default Parameters</td>
                           </tr>
                         </table>
                       </li>
@@ -1038,156 +1038,156 @@
 
                     <h2>Playwright Syllabus</h2>
                     <ul class="list-group">
-                      <li class="list-group-item">Module 1:
+                      <li class="list-group-item"><b>Module 1:</b>
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>Setup and Installation (NodeJS, VS Code, Playwright)</th>
+                            <td>Setup and Installation (NodeJS, VS Code, Playwright)</td>
                           </tr>
                           <tr>
-                            <th>Writing Tests (Traditional, Anonymous, Arrow Functions)</th>
+                            <td>Writing Tests (Traditional, Anonymous, Arrow Functions)</td>
                           </tr>
                           <tr>
-                            <th>Basic Assertions</th>
+                            <td>Basic Assertions</td>
                           </tr>
                           <tr>
-                            <th>Test Hooks (beforeEach, afterEach, beforeAll, afterAll)</th>
+                            <td>Test Hooks (beforeEach, afterEach, beforeAll, afterAll)</td>
                           </tr>
                         </table>
                       </li>
-                      <li class="list-group-item">Module 2:
+                      <li class="list-group-item"><b>Module 2:</b>
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>WebElement Interactions</th>
+                            <td>WebElement Interactions</td>
                           </tr>
                           <tr>
-                            <th>Login/Logout Testing</th>
+                            <td>Login/Logout Testing</td>
                           </tr>
                           <tr>
-                            <th>Built-In Locators</th>
+                            <td>Built-In Locators</td>
                           </tr>
                           <tr>
-                            <th>XPath and CSS Locators</th>
+                            <td>XPath and CSS Locators</td>
                           </tr>
                           <tr>
-                            <th>End-to-End Scenarios</th>
+                            <td>End-to-End Scenarios</td>
                           </tr>
                         </table>
                       </li>
-                      <li class="list-group-item">Module 3:
+                      <li class="list-group-item"><b>Module 3:</b>
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>Record & Playback with Codegen</th>
+                            <td>Record & Playback with Codegen</td>
                           </tr>
                           <tr>
-                            <th>API Response Assertions</th>
+                            <td>API Response Assertions</td>
                           </tr>
                           <tr>
-                            <th>Generic Assertions</th>
+                            <td>Generic Assertions</td>
                           </tr>
                           <tr>
-                            <th>Locator Assertions</th>
+                            <td>Locator Assertions</td>
                           </tr>
                           <tr>
-                            <th>Page Assertions</th>
+                            <td>Page Assertions</td>
                           </tr>
                           <tr>
-                            <th>Snapshot Assertions</th>
+                            <td>Snapshot Assertions</td>
                           </tr>
                         </table>
                       </li>
-                      <li class="list-group-item">Module 4:
+                      <li class="list-group-item"><b>Module 4:</b>
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>GitHub SSH Configuration</th>
+                            <td>GitHub SSH Configuration</td>
                           </tr>
                           <tr>
-                            <th>Page Object Model Implementation</th>
+                            <td>Page Object Model Implementation</td>
                           </tr>
                         </table>
                       </li>
-                      <li class="list-group-item">Module 5:
+                      <li class="list-group-item"><b>Module 5:</b>
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>UI Element Handling (Text Fields, Checkboxes, Radio Buttons)</th>
+                            <td>UI Element Handling (Text Fields, Checkboxes, Radio Buttons)</td>
                           </tr>
                           <tr>
-                            <th>Text Verification</th>
+                            <td>Text Verification</td>
                           </tr>
                           <tr>
-                            <th>Browser Window Management</th>
+                            <td>Browser Window Management</td>
                           </tr>
                           <tr>
-                            <th>Screenshots, Videos, and Trace Viewer</th>
+                            <td>Screenshots, Videos, and Trace Viewer</td>
                           </tr>
                           <tr>
-                            <th>Test Retries</th>
+                            <td>Test Retries</td>
                           </tr>
                           <tr>
-                            <th>Mouse Actions (Hover, Right Click, Double Click)</th>
+                            <td>Mouse Actions (Hover, Right Click, Double Click)</td>
                           </tr>
                         </table>
                       </li>
-                      <li class="list-group-item">Module 6:
+                      <li class="list-group-item"><b>Module 6:</b>
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>Alert Handling</th>
+                            <td>Alert Handling</td>
                           </tr>
                           <tr>
-                            <th>Dropdown Handling</th>
+                            <td>Dropdown Handling</td>
                           </tr>
                           <tr>
-                            <th>File Upload</th>
+                            <td>File Upload</td>
                           </tr>
                           <tr>
-                            <th>Keyboard Actions</th>
+                            <td>Keyboard Actions</td>
                           </tr>
                           <tr>
-                            <th>Autocomplete/Autosuggestion</th>
+                            <td>Autocomplete/Autosuggestion</td>
                           </tr>
                           <tr>
-                            <th>Frame Handling</th>
+                            <td>Frame Handling</td>
                           </tr>
                           <tr>
-                            <th>WebTable and Pagination</th>
+                            <td>WebTable and Pagination</td>
                           </tr>
                         </table>
                       </li>
-                      <li class="list-group-item">Module 7:
+                      <li class="list-group-item"><b>Module 7:</b>
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>Browser Context Management</th>
+                            <td>Browser Context Management</td>
                           </tr>
                           <tr>
-                            <th>Multiple Window Handling</th>
+                            <td>Multiple Window Handling</td>
                           </tr>
                           <tr>
-                            <th>Network Call Handling</th>
+                            <td>Network Call Handling</td>
                           </tr>
                           <tr>
-                            <th>Date Picker Handling</th>
+                            <td>Date Picker Handling</td>
                           </tr>
                         </table>
                       </li>
-                      <li class="list-group-item">Module 8:
+                      <li class="list-group-item"><b>Module 8:</b>
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>Test Grouping with Describe Blocks</th>
+                            <td>Test Grouping with Describe Blocks</td>
                           </tr>
                           <tr>
-                            <th>Test Annotations and Tags</th>
+                            <td>Test Annotations and Tags</td>
                           </tr>
                           <tr>
-                            <th>Data-Driven Testing with JSON</th>
+                            <td>Data-Driven Testing with JSON</td>
                           </tr>
                           <tr>
-                            <th>Reporting (List, Dot, JSON, JUnit, HTML, Allure)</th>
+                            <td>Reporting (List, Dot, JSON, JUnit, HTML, Allure)</td>
                           </tr>
                         </table>
                       </li>
-                      <li class="list-group-item">Module 9: BDD Cucumber Framework</li>
-                      <li class="list-group-item">Module 10: Postman REST API Testing</li>
-                      <li class="list-group-item">Module 11: Playwright REST API Automation</li>
-                      <li class="list-group-item">Module 12: CI/CD and Advanced Topics</li>
+                      <li class="list-group-item"><b>Module 9:</b> BDD Cucumber Framework</li>
+                      <li class="list-group-item"><b>Module 10</b>: Postman REST API Testing</li>
+                      <li class="list-group-item"><b>Module 11</b>: Playwright REST API Automation</li>
+                      <li class="list-group-item"><b>Module 12</b>: CI/CD and Advanced Topics</li>
                     </ul>
                 </div>
                 <div class="modal-footer">
@@ -1217,13 +1217,13 @@
                       <li class="list-group-item">Output Statements in JavaScript
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>document.write</th>
+                            <td>document.write</td>
                           </tr>
                           <tr>
-                            <th>alert</th>
+                            <td>alert</td>
                           </tr>
                           <tr>
-                            <th>console.log</th>
+                            <td>console.log</td>
                           </tr>
                         </table>
                       </li>
@@ -1235,29 +1235,29 @@
                       <li class="list-group-item">Operator & types of operator in JavaScript
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>Arithmetic Operators</th>
+                            <td>Arithmetic Operators</td>
                           </tr>
                           <tr>
-                            <th>Relational Operators & types</th>
+                            <td>Relational Operators & types</td>
                           </tr>
                           <tr>
-                            <th>Logical Operators & types</th>
+                            <td>Logical Operators & types</td>
                           </tr>
                           <tr>
-                            <th>Assignment Operators & types</th>
+                            <td>Assignment Operators & types</td>
                           </tr>
                         </table>
                       </li>
                       <li class="list-group-item">Conditional Statements in JavaScript
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>If Statement</th>
+                            <td>If Statement</td>
                           </tr>
                           <tr>
-                            <th>If else Statement</th>
+                            <td>If else Statement</td>
                           </tr>
                           <tr>
-                            <th>Nested If else statement</th>
+                            <td>Nested If else statement</td>
                           </tr>
                         </table>
                       </li>
@@ -1266,19 +1266,19 @@
                       <li class="list-group-item">Loop Control Statements
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>For Loop</th>
+                            <td>For Loop</td>
                           </tr>
                           <tr>
-                            <th>While Loop</th>
+                            <td>While Loop</td>
                           </tr>
                           <tr>
-                            <th>Do..While Loop</th>
+                            <td>Do..While Loop</td>
                           </tr>
                           <tr>
-                            <th>Break and Continue</th>
+                            <td>Break and Continue</td>
                           </tr>
                           <tr>
-                            <th>Patterns in JavaScript</th>
+                            <td>Patterns in JavaScript</td>
                           </tr>
                         </table>
                       </li>
@@ -1293,51 +1293,51 @@
                       <li class="list-group-item">Arrays & Array Methods
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>For of Loop with array</th>
+                            <td>For of Loop with array</td>
                           </tr>
                           <tr>
-                            <th>For in Loop with array</th>
+                            <td>For in Loop with array</td>
                           </tr>
                           <tr>
-                            <th>Array destructuring & Rest operator</th>
+                            <td>Array destructuring & Rest operator</td>
                           </tr>
                         </table>
                       </li>
                       <li class="list-group-item">Functions in JavaScript
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>Functions without return value</th>
+                            <td>Functions without return value</td>
                           </tr>
                           <tr>
-                            <th>Functions with return value</th>
+                            <td>Functions with return value</td>
                           </tr>
                           <tr>
-                            <th>Anonymous Functions</th>
+                            <td>Anonymous Functions</td>
                           </tr>
                           <tr>
-                            <th>Arrow Functions</th>
+                            <td>Arrow Functions</td>
                           </tr>
                           <tr>
-                            <th>Recursion</th>
+                            <td>Recursion</td>
                           </tr>
                         </table>
                       </li>
                       <li class="list-group-item">Objects in JavaScript
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>Objects/ Array of Objects</th>
+                            <td>Objects/ Array of Objects</td>
                           </tr>
                           <tr>
-                            <th>Nested Objects</th>
+                            <td>Nested Objects</td>
                           </tr>
                           <tr>
-                            <th>Objects with Function</th>
+                            <td>Objects with Function</td>
                           </tr>
                           <tr>
-                            <th>Read Key and Value pair</th>
+                            <td>Read Key and Value pair</td>
                           </tr>
                           <tr>
-                            <th>Object destructuring</th>
+                            <td>Object destructuring</td>
                           </tr>
                         </table>
                       </li>
@@ -1359,183 +1359,183 @@
 
                     <h2>Playwright Syllabus</h2>
                     <ul class="list-group">
-                      <li class="list-group-item">Module 1:
+                      <li class="list-group-item"><b>Module 1</b>:
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>Setup and Installation (NodeJS, VS Code, Playwright)</th>
+                            <td>Setup and Installation (NodeJS, VS Code, Playwright)</td>
                           </tr>
                           <tr>
-                            <th>Writing Tests (Traditional, Anonymous, Arrow Functions)</th>
+                            <td>Writing Tests (Traditional, Anonymous, Arrow Functions)</td>
                           </tr>
                           <tr>
-                            <th>Basic Assertions</th>
+                            <td>Basic Assertions</td>
                           </tr>
                           <tr>
-                            <th>Test Hooks (beforeEach, afterEach, beforeAll, afterAll)</th>
+                            <td>Test Hooks (beforeEach, afterEach, beforeAll, afterAll)</td>
                           </tr>
                         </table>
                       </li>
-                      <li class="list-group-item">Module 2:
+                      <li class="list-group-item"><b>Module 2</b>:
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>WebElement Interactions</th>
+                            <td>WebElement Interactions</td>
                           </tr>
                           <tr>
-                            <th>Login/Logout Testing</th>
+                            <td>Login/Logout Testing</td>
                           </tr>
                           <tr>
-                            <th>Built-In Locators</th>
+                            <td>Built-In Locators</td>
                           </tr>
                           <tr>
-                            <th>XPath and CSS Locators</th>
+                            <td>XPath and CSS Locators</td>
                           </tr>
                           <tr>
-                            <th>End-to-End Scenarios</th>
+                            <td>End-to-End Scenarios</td>
                           </tr>
                         </table>
                       </li>
-                      <li class="list-group-item">Module 3:
+                      <li class="list-group-item"><b>Module 3</b>:
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>Record & Playback with Codegen</th>
+                            <td>Record & Playback with Codegen</td>
                           </tr>
                           <tr>
-                            <th>API Response Assertions</th>
+                            <td>API Response Assertions</td>
                           </tr>
                           <tr>
-                            <th>Generic Assertions</th>
+                            <td>Generic Assertions</td>
                           </tr>
                           <tr>
-                            <th>Locator Assertions</th>
+                            <td>Locator Assertions</td>
                           </tr>
                           <tr>
-                            <th>Page Assertions</th>
+                            <td>Page Assertions</td>
                           </tr>
                           <tr>
-                            <th>Snapshot Assertions</th>
+                            <td>Snapshot Assertions</td>
                           </tr>
                         </table>
                       </li>
-                      <li class="list-group-item">Module 4:
+                      <li class="list-group-item"><b>Module 4</b>:
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>GitHub SSH Configuration</th>
+                            <td>GitHub SSH Configuration</td>
                           </tr>
                           <tr>
-                            <th>Page Object Model Implementation</th>
+                            <td>Page Object Model Implementation</td>
                           </tr>
                         </table>
                       </li>
-                      <li class="list-group-item">Module 5:
+                      <li class="list-group-item"><b>Module 5</b>:
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>UI Element Handling</th>
+                            <td>UI Element Handling</td>
                           </tr>
                           <tr>
-                            <th>Text Verification</th>
+                            <td>Text Verification</td>
                           </tr>
                           <tr>
-                            <th>Browser Window Management</th>
+                            <td>Browser Window Management</td>
                           </tr>
                           <tr>
-                            <th>Screenshots, Videos, and Trace Viewer</th>
+                            <td>Screenshots, Videos, and Trace Viewer</td>
                           </tr>
                           <tr>
-                            <th>Test Retries</th>
+                            <td>Test Retries</td>
                           </tr>
                           <tr>
-                            <th>Mouse Actions</th>
+                            <td>Mouse Actions</td>
                           </tr>
                         </table>
                       </li>
-                      <li class="list-group-item">Module 6:
+                      <li class="list-group-item"><b>Module 6</b>:
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>Alert Handling</th>
+                            <td>Alert Handling</td>
                           </tr>
                           <tr>
-                            <th>Dropdown Handling</th>
+                            <td>Dropdown Handling</td>
                           </tr>
                           <tr>
-                            <th>File Upload</th>
+                            <td>File Upload</td>
                           </tr>
                           <tr>
-                            <th>Keyboard Actions</th>
+                            <td>Keyboard Actions</td>
                           </tr>
                           <tr>
-                            <th>Autocomplete/Autosuggestion</th>
+                            <td>Autocomplete/Autosuggestion</td>
                           </tr>
                           <tr>
-                            <th>Frame Handling</th>
+                            <td>Frame Handling</td>
                           </tr>
                           <tr>
-                            <th>WebTable and Pagination</th>
+                            <td>WebTable and Pagination</td>
                           </tr>
                         </table>
                       </li>
-                      <li class="list-group-item">Module 7:
+                      <li class="list-group-item"><b>Module 7</b>:
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>Browser Context Management</th>
+                            <td>Browser Context Management</td>
                           </tr>
                           <tr>
-                            <th>Multiple Window Handling</th>
+                            <td>Multiple Window Handling</td>
                           </tr>
                           <tr>
-                            <th>Network Call Handling</th>
+                            <td>Network Call Handling</td>
                           </tr>
                           <tr>
-                            <th>Date Picker Handling</th>
+                            <td>Date Picker Handling</td>
                           </tr>
                         </table>
                       </li>
-                      <li class="list-group-item">Module 8:
+                      <li class="list-group-item"><b>Module 8</b>:
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>Test Grouping with Describe Blocks</th>
+                            <td>Test Grouping with Describe Blocks</td>
                           </tr>
                           <tr>
-                            <th>Test Annotations and Tags</th>
+                            <td>Test Annotations and Tags</td>
                           </tr>
                           <tr>
-                            <th>Data-Driven Testing with JSON</th>
+                            <td>Data-Driven Testing with JSON</td>
                           </tr>
                           <tr>
-                            <th>Reporting (List, Dot, JSON, JUnit, HTML, Allure)</th>
+                            <td>Reporting (List, Dot, JSON, JUnit, HTML, Allure)</td>
                           </tr>
                         </table>
                       </li>
-                      <li class="list-group-item">Module 9: BDD Cucumber Framework
+                      <li class="list-group-item"><b>Module 9</b>: BDD Cucumber Framework
                         <table class="table" style="margin-bottom: 0px;">
                           <tr>
-                            <th>Install Cucumber</th>
+                            <td>Install Cucumber</td>
                           </tr>
                           <tr>
-                            <th>Explore Gherkin Language</th>
+                            <td>Explore Gherkin Language</td>
                           </tr>
                           <tr>
-                            <th>Create Feature Files</th>
+                            <td>Create Feature Files</td>
                           </tr>
                           <tr>
-                            <th>Create Step Definition Files</th>
+                            <td>Create Step Definition Files</td>
                           </tr>
                           <tr>
-                            <th>Integrate Hooks</th>
+                            <td>Integrate Hooks</td>
                           </tr>
                           <tr>
-                            <th>Filtering scenarios</th>
+                            <td>Filtering scenarios</td>
                           </tr>
                           <tr>
-                            <th>Retrying failed scenarios</th>
+                            <td>Retrying failed scenarios</td>
                           </tr>
                           <tr>
-                            <th>Parallel running</th>
+                            <td>Parallel running</td>
                           </tr>
                         </table>
                       </li>
-                      <li class="list-group-item">Module 10: Postman REST API Testing</li>
-                      <li class="list-group-item">Module 11: Playwright REST API Automation</li>
-                      <li class="list-group-item">Module 12: CI/CD and Advanced Topics</li>
+                      <li class="list-group-item"><b>Module 10</b>: Postman REST API Testing</li>
+                      <li class="list-group-item"><b>Module 11</b>: Playwright REST API Automation</li>
+                      <li class="list-group-item"><b>Module 12</b>: CI/CD and Advanced Topics</li>
                     </ul>
                 </div>
                 <div class="modal-footer">
